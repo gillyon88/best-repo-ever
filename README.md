@@ -1,1 +1,1 @@
-# best-repo-ever
+# best-repo-ever Gilly의 첫 GitHub 실습
